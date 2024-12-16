@@ -1,14 +1,14 @@
 {
   "name": "mesto",
-  "description": "My project in RTU MIREA.",
+  "description": "sixth_project",
   "version": "1.0.0",
-  "author": " <nikitafon2005@gmail.com>",
+  "author": "<kirillvolostnov16@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Relax1205/Sixth_project.Server.git"
+    "url": "git+https://github.com/KirillVolostnov/sixth_project/tree/main.git"
   },
-  "homepage": "https://github.com/AstreyaJulia/mesto#readme",
+  "homepage": "https://github.com/KirillVolostnov/sixth_project/tree/main",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
@@ -32,7 +32,7 @@
     "mini-css-extract-plugin": "^2.6.0",
     "path": "^0.12.7",
     "postcss-loader": "^6.2.1",
-    "webpack": "^5.70.0",
+    "webpack": "^5.97.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4"
   }
